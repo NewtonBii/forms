@@ -1,6 +1,6 @@
-# Chocolate chip cookies
+# Web Forms
 
-#### This is a website about a great recipe for the best chocolate chip cookies.
+#### This is a webpage with a form that a user can enter information and see the feedback on the page.
 #### By **Newton Bii**
 
 ## Description
